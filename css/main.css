@@ -56,6 +56,15 @@
 .timeline-card-success:after {
   background-color: #37BC9B; }
 
+  .timeline-card-realisations {
+    border-left-color: #bc8237; }
+  
+  .timeline-card-realisations:before {
+    border-color: #bc8237; }
+  
+  .timeline-card-realisations:after {
+    background-color: #bc8237; }
+
 html {
   scroll-behavior: smooth; }
 
@@ -138,3 +147,13 @@ footer a:not(.nav-link) {
   .page-break {
     padding-top: 5rem;
     page-break-before: always; } }
+
+    .align-center-items{
+  
+        text-align: center;
+    
+    }
+
+    .sousbloc-realisations{
+      margin-top:50px;
+    }
